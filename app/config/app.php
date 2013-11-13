@@ -65,7 +65,7 @@ return array(
 	|
 	*/
 
-	'key' => 'YourSecretKey!!!',
+	'key' => 'FKJFISJF8283hjriosdhfh&(FHE*Jjf8j283jr2ij3ionsudfhus',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -180,5 +180,4 @@ return array(
 		'View'            => 'Illuminate\Support\Facades\View',
 
 	),
-
 );
