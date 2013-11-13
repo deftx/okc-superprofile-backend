@@ -23,7 +23,7 @@ class RawProfileController extends \BaseController {
         $input = Input::only('crawlData');
 
         if (empty($input['crawlData'])) {
-            throw new Exception('fuck');
+            return array('msg' => 'empty');
         }
 
         try {
